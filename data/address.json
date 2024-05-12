@@ -1,0 +1,102 @@
+[
+    {
+        "name": "GHAZAOUET - Tlemcen",
+        "numRue": 13007,
+        "ville": "GHAZAOUET"
+    },
+    {
+        "name": "Oran - Oran",
+        "numRue": 31000,
+        "ville": "Oran"
+    },
+    {
+        "name": "Algiers - Algiers",
+        "numRue": 16000,
+        "ville": "Algiers"
+    },
+    {
+        "name": "Constantine - Constantine",
+        "numRue": 25000,
+        "ville": "Constantine"
+    },
+    {
+        "name": "Annaba - Annaba",
+        "numRue": 23000,
+        "ville": "Annaba"
+    },
+    {
+        "name": "Batna - Batna",
+        "numRue": 5000,
+        "ville": "Batna"
+    },
+    {
+        "name": "Blida - Blida",
+        "numRue": 9000,
+        "ville": "Blida"
+    },
+    {
+        "name": "Setif - Setif",
+        "numRue": 19000,
+        "ville": "Setif"
+    },
+    {
+        "name": "Chlef - Chlef",
+        "numRue": 2000,
+        "ville": "Chlef"
+    },
+    {
+        "name": "Djelfa - Djelfa",
+        "numRue": 17000,
+        "ville": "Djelfa"
+    },
+    {
+        "name": "Sidi Bel Abbes - Sidi Bel Abbes",
+        "numRue": 22000,
+        "ville": "Sidi Bel Abbes"
+    },
+    {
+        "name": "Biskra - Biskra",
+        "numRue": 7000,
+        "ville": "Biskra"
+    },
+    {
+        "name": "Tebessa - Tebessa",
+        "numRue": 12000,
+        "ville": "Tebessa"
+    },
+    {
+        "name": "El Oued - El Oued",
+        "numRue": 39000,
+        "ville": "El Oued"
+    },
+    {
+        "name": "Skikda - Skikda",
+        "numRue": 21000,
+        "ville": "Skikda"
+    },
+    {
+        "name": "Tiaret - Tiaret",
+        "numRue": 14000,
+        "ville": "Tiaret"
+    },
+    {
+        "name": "Tizi Ouzou - Tizi Ouzou",
+        "numRue": 15000,
+        "ville": "Tizi Ouzou"
+    },
+    {
+        "name": "Ain Defla - Ain Defla",
+        "numRue": 44000,
+        "ville": "Ain Defla"
+    },
+    {
+        "name": "Guelma - Guelma",
+        "numRue": 24000,
+        "ville": "Guelma"
+    },
+    {
+        "name": "Relizane - Relizane",
+        "numRue": 48000,
+        "ville": "Relizane"
+    }
+]
